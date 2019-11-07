@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/printer_module_bixolon.iml" filepath="$PROJECT_DIR$/printer_module_bixolon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/printer_module_bixolon_android.iml" filepath="$PROJECT_DIR$/android/printer_module_bixolon_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/printer_module_bixolon_example_android.iml" filepath="$PROJECT_DIR$/example/android/printer_module_bixolon_example_android.iml" />
+    </modules>
+  </component>
+</project>
